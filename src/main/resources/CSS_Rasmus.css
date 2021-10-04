@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+header{
+    width: 100%;
+    display: inline-block;
+}
+
+header h1{
+    width: 50%;
+    display: inline-block;
+}
+
+header img{
+    width: 100px;
+}
+
+section{
+    width: 100%;
+}
+
+section h2{
+    margin: 40px 0px;
+}
+
+section div{
+    width: 30%;
+    display: inline-table;
+    padding-left: 15%;
+}
+
+section ul{
+    padding-left: 4%;
+}
+
+section ul li{
+    margin-top: 35px;
+}
+
+
+
